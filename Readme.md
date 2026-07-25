@@ -28,7 +28,7 @@ The application recommends the **Top 5 similar movies** based on the selected mo
 
 ### Clone the repository
 
-git clone https://github.com/BaddamPravallika/Netflix-Movie-Recommendation-System.git
+git clone https://github.com/Baddampravallika/Netflix_Movie_Recommendation_System.git
 
 ### Install dependencies
 
